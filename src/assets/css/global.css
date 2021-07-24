@@ -1,0 +1,94 @@
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #333;
+  font-family: "Microsoft YaHei", "微软雅黑";
+}
+
+fieldset,
+img {
+  border: 0;
+  vertical-align: middle;
+}
+
+ol,
+ul,
+li {
+  list-style: none;
+}
+
+
+em {
+  font-style: normal;
+}
+
+button,
+select,
+textarea {
+  outline: none;
+}
+
+/*禁用了文本的拖拉，尤其在谷歌下*/
+textarea {
+  resize: none;
+}
+
+/*为了使文本段落左右两边对齐*/
+p {
+  text-align: justify;
+  text-justify: distribute;
+}
+
+/*======== Link ========*/
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f60;
+  text-decoration: none;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+/*清空浮动的代码-start*/
+.clr:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+.clr {
+  *zoom: 1;
+}
