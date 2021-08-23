@@ -1,0 +1,233 @@
+{
+  "id": "2697312",
+  "name": "智能药柜",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2365681",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "3307010",
+      "name": "药物",
+      "font_class": "yaowu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "3727758",
+      "name": "药物",
+      "font_class": "huahui-",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "4132570",
+      "name": "购物车 选中",
+      "font_class": "gouwuchexuanzhong",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6418982",
+      "name": "疼痛护理",
+      "font_class": "tengtonghuli",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "7708090",
+      "name": "推荐",
+      "font_class": "tuijian1",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "8837095",
+      "name": "联系",
+      "font_class": "lianxi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "11832669",
+      "name": "支付成功",
+      "font_class": "zu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12018678",
+      "name": "联系 (1)",
+      "font_class": "lianxi1",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "12510566",
+      "name": "感冒药物",
+      "font_class": "ganmaoyaowu",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "14944316",
+      "name": "药物",
+      "font_class": "yaowu1",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "16307759",
+      "name": "创口贴",
+      "font_class": "yiliaoicon_huaban1fuben5",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "17605497",
+      "name": "消炎",
+      "font_class": "xiaoyan",
+      "unicode": "e819",
+      "unicode_decimal": 59417
+    },
+    {
+      "icon_id": "18066830",
+      "name": "支付",
+      "font_class": "zhifu",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "19837303",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e7bf",
+      "unicode_decimal": 59327
+    },
+    {
+      "icon_id": "19997730",
+      "name": "疼痛科",
+      "font_class": "tengtongke",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "20261294",
+      "name": "推荐",
+      "font_class": "tuijian2",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "21606281",
+      "name": "支付",
+      "font_class": "zhifu1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "21833304",
+      "name": "支付",
+      "font_class": "zhifu2",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "21879412",
+      "name": "外伤",
+      "font_class": "waishang",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "22408399",
+      "name": "ic_感冒指数",
+      "font_class": "ic_ganmaozhishu",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "20417782",
+      "name": "面食",
+      "font_class": "mianshi",
+      "unicode": "f33d",
+      "unicode_decimal": 62269
+    },
+    {
+      "icon_id": "3900451",
+      "name": "手机支付",
+      "font_class": "shangwutubiao-",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "13116987",
+      "name": "手机支付",
+      "font_class": "shoujizhifu",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "13210813",
+      "name": "手机支付密码",
+      "font_class": "shoujizhifumima",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "13254812",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "14784861",
+      "name": "手机支付",
+      "font_class": "shoujizhifu1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "15739372",
+      "name": "商品",
+      "font_class": "shangpin1",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "18537716",
+      "name": "分类",
+      "font_class": "kinds-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "19181459",
+      "name": "电  话 (1)",
+      "font_class": "dianhua1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "22502561",
+      "name": "购物车",
+      "font_class": "ShoppingCartIcon",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "22870549",
+      "name": "预约取药柜",
+      "font_class": "a-zu1944",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    }
+  ]
+}
